@@ -14,6 +14,7 @@ When executing Explicitor, it is important that the jar for the Apache Commons L
 for example:
 
 javac -cp .:commons-lang3-3.1.jar Frame.java
+
 java -cp .:commons-lang3-3.1.jar EmptyFrame1
 
 
